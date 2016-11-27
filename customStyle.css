@@ -41,6 +41,12 @@ background-size:cover;
 height: 800px;
 width: 1350px;    
 }
+.pageOneResume{
+background: url("https://images.unsplash.com/photo-1457612928689-a1ab27da0dad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=49253adbd50ae589dabab98b76b68e61"); 
+background-size:cover;
+height: 1750px;
+width: 1350px;    
+}
 .pageTwo{
 background: url("https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ed16f1b32e9d7b5df04883bec5149067"); 
 background-size:cover;
