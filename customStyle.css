@@ -1,0 +1,295 @@
+.block{
+  background-color:black;
+  opacity:.5;
+  padding:10px;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+}
+.nav-pills{
+font-size: 2.8em;  
+background: black;
+width: 1350px;
+opacity:0.8;
+margin-bottom:10%;  
+}
+
+body{
+ background: white;
+ font-family:lobster; 
+ color:white; 
+}  
+ h1{
+ padding:0;
+   margin-top: 0px;
+   font-size:4.50em
+  }
+.btn-default{
+background: lightgrey;
+opacity: 0.7;
+  color: white;
+  border-color: white;
+  color: #6699ff;
+  font-size:1.7em;
+  border-width: 2.5px;
+  margin-top:1%;
+  }
+.pageOne{
+background: url("https://images.unsplash.com/photo-1457612928689-a1ab27da0dad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=49253adbd50ae589dabab98b76b68e61"); 
+background-size:cover;
+height: 800px;
+width: 1350px;    
+}
+.pageTwo{
+background: url("https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ed16f1b32e9d7b5df04883bec5149067"); 
+background-size:cover;
+height: 800px;
+margin-top: -135px;
+padding-top:5%;  
+}
+.pageThree{
+background: url("https://images.unsplash.com/photo-1457612928689-a1ab27da0dad?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=49253adbd50ae589dabab98b76b68e61"); 
+background-size:cover;
+height: 800px;    
+margin-top: -134.5px;
+}
+
+p{
+  font-size: 2.0em;
+  margin-left:3%;
+}
+sharp{
+  color:black;
+}
+.me{
+  height:400px;
+  border-radius:180px;
+  margin-left: 15%;
+  box-shadow: 10px 10px 7px #888888;
+}
+h2{
+  margin-left:3%;
+  font-size:65px;
+}
+.Summary, .Summaryhead, .Experiencehead{
+  font-size: 18px;
+  text-align: left;
+}
+.col-md-12{
+width: 1000px;
+height: 1650px;
+background-color:black;
+  opacity:.7;
+ margin-top: -100px;
+  margin-right:-400px;
+  margin-left:200px;
+  border-radius:10px;
+}
+
+#container{
+ width: 1160px;
+height: 600px;
+background-color:black;
+  opacity:.7;
+ margin-top: -100px;
+  margin-right:50px;
+  margin-left:50px;
+  border-radius:10px; 
+}
+
+.left-hand{
+height: 110px;
+padding-right:650px;
+margin-top:  -36px;
+position: relative; 
+}
+
+.right-hand{
+ height: 110px; 
+margin-top:  -36px;
+}
+h2{
+  margin-top: -10px;
+}
+.email {
+  margin-right: -100px;
+}
+.github{
+  margin-right: -130px;
+}
+.portfolio{
+  width: 220px;
+  height: 170px;
+  border: 3px solid grey;
+  border-radius: 10px;
+  margin-top: 70px;
+
+}
+.padding{
+  padding-left: 0px;
+  margin: -255px 0px 0 10px;
+}
+
+.one{
+  margin-top: -40px;
+  margin-left: -180px;
+}
+.two{
+  margin-top: -50px;
+  margin-left: -280px;
+}
+
+
+.company {
+  font-size: 15.5px;
+text-align: left;
+}
+.position{
+ text-align: left;
+  font-size: 16px;
+}
+li{
+  font-size: 14.5px;
+}
+#tech{
+  font-size: 13.5px;
+  font-weight: bold;
+}
+.address{
+  margin-top: 7px;
+}
+
+.Education{
+  font-size: 16px;
+  /*text-align: left;*/
+  /*margin-right: -80px;*/
+}
+.Educationhead{
+  /*margin-right: -px;*/
+  /*text-align: left;*/
+  margin-right: -10px;
+  margin-top: -7px;
+}
+
+.conty{
+margin-left: -600px;
+}
+.Quiz{
+  margin-left: -120px;
+  padding-right: 370px;
+}
+
+
+.cont{
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-left: -600px;  
+display: block;
+}
+.quizzy{
+ font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-left: -110px;
+margin-top: -50px;  
+display: block;
+}
+.honda{
+ margin-right: 260px; 
+padding-right: 590px;
+} 
+.typer{
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-right: -380px;
+margin-top: -50px;  
+display: block;
+}
+
+.computer{
+ margin-right: 260px; 
+} 
+.comp{
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-right: -860px;
+margin-top: -50px;  
+display: block;
+}
+
+
+.wonder{
+margin-left: -500px;
+}
+
+.world{
+  font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-left: -500px;  
+display: block;
+}
+
+.online{
+margin-left: -30px;
+padding-right: 460px;
+}
+.cal{
+font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-left: -20px;
+margin-top: -50px;  
+display: block;
+}
+
+.netbank{
+ margin-left: 365px;
+padding-right: 60px; 
+}
+.bank{
+font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-right: -940px;
+margin-top: -50px;  
+display: block;
+}
+.spa{
+margin-left: -20px;
+padding-right: 560px;
+}
+
+.app{
+font-size: 15px;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+margin-right: -470px;
+margin-top: -50px;  
+display: block;
+}
+
+.background{
+  background-color:black;
+  opacity:.5;
+  padding:10px;
+  width:65%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:10px;
+}
+.pull-left, .pull-right{
+  font-size: 21px;
+}
